@@ -10,7 +10,7 @@ Os dados a serem ingeridos e analisados em nossa plataforma de Big Data são dad
 Entregáveis
 1) Sua primeira tarefa consiste em escrever uma aplicação para calcular o ganho total da empresa, o qual é obtido a partir da taxa administrativa do serviço de cartão de crédito para seus clientes. Esse ganho é calculado sobre um percentual das transações de cartão de crédito realizadas por eles. O cálculo é baseado no conjunto de dados abaixo, transacao, contrato e cliente da Figura 1.
 
-O resultado esperado é uma consulta que retorne o ganho total da empresa por cliente que é 1.198,77 para o cliente A e 1,08 para o cliente B, conforme a Figura 2.
+O resultado esperado é uma consulta que retorne o ganho total da empresa por cliente que é 1.198,77 para o cliente A e 1,08 para o cliente D, conforme a Figura 2.
 
 Assim sendo, seguem snippet de código para criação da base de dados e dos dados exemplos (via SQL Server).
 
